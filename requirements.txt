@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+moviepy==1.0.3
+python-dotenv
+pysrt
+requests
+google-generativeai
